@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flirtwizard.github.io/sitemap.xml
